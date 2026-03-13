@@ -63,13 +63,13 @@ For me this returns:
 
 What that means:
 
-pp512 = 260.52 t/s
+<code>pp512 = 260.52 t/s</code>
 
 This is prompt processing speed for a 512-token prompt.
 
 This is the big number for RAG, long prompts, tool outputs, document-heavy workflows etc and it’s pretty good.
 
-tg128 = 12.71 t/s
+<code>tg128 = 12.71 t/s</code>
 
 This is generation speed for 128 output tokens.
 
