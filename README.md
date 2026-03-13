@@ -94,7 +94,7 @@ eval count:           992 token(s)
 eval duration:        2m40.1077145s
 eval rate:            6.20 tokens/s
 </code><br/>
-This gives us clean set of comarative numbers:
+This gives us clean set of comparative numbers:
 
 Prompt ingestion	14.23 tokens/sec
 Generation	6.20 tokens/sec
