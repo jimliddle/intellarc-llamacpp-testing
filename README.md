@@ -33,7 +33,7 @@ Name          : Intel(R) Graphics
 PNPDeviceID   : PCI\VEN_8086&DEV_7D45&SUBSYS_3D3617AA&REV_08\3&11583659&1&10
 AdapterRAM    : 2147479552
 DriverVersion : 32.0.101.6881 </code>
-
+<br/>
 
 What this tells us:
 
