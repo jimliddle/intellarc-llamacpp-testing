@@ -27,8 +27,8 @@ Before we conduct any tests, first lets just confirm what type of ARC GPU we hav
 <code>Get-CimInstance Win32_VideoController | Format-List Name,PNPDeviceID,AdapterRAM,DriverVersion</code>
 
 You should receive something back like:
-
-<code>Name          : Intel(R) Graphics
+<code>
+Name          : Intel(R) Graphics
 PNPDeviceID   : PCI\VEN_8086&DEV_7D45&SUBSYS_3D3617AA&REV_08\3&11583659&1&10
 AdapterRAM    : 2147479552
 DriverVersion : 32.0.101.6881 </code>
