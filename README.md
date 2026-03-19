@@ -120,6 +120,8 @@ Arc GPU = 4000 / 260 ≈ 15 seconds
 
 This is where GPU acceleration matters most.
 
+In this repo there is also  a lightweight proxy that routes requests to Ollama style endpoints, allowing Apps that use Ollama tto benefit from the optimized Llamacpp GPU acceleration without changing the application.
+
 
 
 
