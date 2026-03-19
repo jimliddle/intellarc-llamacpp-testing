@@ -1,4 +1,4 @@
-# Intel Arc Lamacpp Testing
+# Intel Arc Llamacpp Testing
 
 The aim of this is to provide a short tutorial on how to setup llama-cpp to be able to take advantage of the Intel ARC GPU.
 
